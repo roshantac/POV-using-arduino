@@ -5,5 +5,6 @@ any versions of arduino ranging from arduino uno can be used for this project .
 this project code was done by hari .
 contributers are
 muhammed roshan
+and
 rohit r nath
 
